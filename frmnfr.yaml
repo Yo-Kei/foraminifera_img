@@ -1,0 +1,11 @@
+path: /content/frmnfr  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+test:  # test images (optional)
+
+# Classes
+nc: 13  # number of classes
+names: ['side_1', 'edge_1', 'side_2', 'edge_2', 'section_1', 'section_2', 'others', 'forams', 'bottle', 'side_3', 'edge_3', 'side_4', 'edge_4']  # class names
+
+
+# Download script/URL (optional)

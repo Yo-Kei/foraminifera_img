@@ -1,0 +1,11 @@
+#!/bin/bash
+
+mkdir fossils
+mkdir fossils/molluscs
+mkdir fossils/molluscs/gastropods
+mkdir fossils/molluscs/bivalves
+mkdir fossils/brachiopods
+mkdir fossils/vertebrates
+mkdir fossils/vertebrates/reptiles
+mkdir fossils/vertebrates/birds
+mkdir fossils/vertebrates/mammals
